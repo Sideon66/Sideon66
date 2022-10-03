@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Tase
-- 👀 I’m interested in BlockChain Technology and Web Development
-- 🌱 I’m currently learning basics of Web Development
-- 💞️ I’m looking to collaborate on any kind of project related to blockchain technology
+- 👋 Hi, I’m @Tase.
+- 🌐 Technology enthusiast.
+- 👀 I’m interested in BlockChain Technology and Web Development.
+- 👨🏻‍💻 For now I have skills as Frontend Web Developer .
+- ⚡ Skills in : HTML/CSS, Sass/ JS and Bootstrap.
+- 📖 Today I study and practice: Angular framework, MySQL and Node JS.
+- 💞️ I’m looking to collaborate on any kind of project as Front End Developer/Designer.
 - 📫 How to reach me : tanaselfotea@gmail.com
 
 <!---
