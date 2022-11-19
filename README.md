@@ -6,7 +6,7 @@
 - 📖 Today I study and practice: React framework.
 - 💞️ I’m looking to collaborate on any kind of project as Front End Developer/Designer.
 - 📫 How to reach me : tanaselfotea@gmail.com
-- 💼 Linkedin profile : https://www.linkedin.com/in/foteat/
+
 
 <!---
 Sideon66/Sideon66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
