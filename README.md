@@ -2,9 +2,7 @@
 - 🌐 Technology enthusiast.
 - 👀 I’m interested in BlockChain Technology and Web Development.
 - 👨🏻‍💻 For now I have skills as Frontend Web Developer .
-- ⚡ Skills in : HTML,CSS,Sass,JS and React
-- 📖 Today I study and practice: React framework.
-- 💞️ I’m looking to collaborate on any kind of project as Front End Developer/Designer.
+- ⚡ Skills in : React(HTML,CSS,Sass,JS), NodeJS, MongoDB 
 - 📫 How to reach me : tanaselfotea@gmail.com
 
 
